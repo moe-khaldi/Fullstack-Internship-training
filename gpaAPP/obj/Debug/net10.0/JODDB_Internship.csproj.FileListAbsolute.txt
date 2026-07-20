@@ -1,0 +1,15 @@
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\JODDB_Internship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\JODDB_Internship.AssemblyInfoInputs.cache
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\JODDB_Internship.AssemblyInfo.cs
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\JODDB_Internship.csproj.CoreCompileInputs.cache
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\JODDB_Internship.sourcelink.json
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\bin\Debug\net10.0\JODDB_Internship.exe
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\bin\Debug\net10.0\JODDB_Internship.deps.json
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\bin\Debug\net10.0\JODDB_Internship.runtimeconfig.json
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\bin\Debug\net10.0\JODDB_Internship.dll
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\bin\Debug\net10.0\JODDB_Internship.pdb
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\JODDB_Internship.dll
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\refint\JODDB_Internship.dll
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\JODDB_Internship.pdb
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\JODDB_Internship.genruntimeconfig.cache
+C:\Users\xxmoh\OneDrive - just.edu.jo\Desktop\JODDB_Internship\gpaAPP\obj\Debug\net10.0\ref\JODDB_Internship.dll
